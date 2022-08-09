@@ -1,1 +1,1 @@
-# led-scroller
+# led-scroller matrix
